@@ -1,4 +1,4 @@
 class bitlancerorg::role {
   include stringed::profile::base
-  include oasisorg::general::packages
+  include bitlancerorg::general::packages
 }
